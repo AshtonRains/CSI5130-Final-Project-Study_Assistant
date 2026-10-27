@@ -5,6 +5,6 @@ This semester, I've been doing most of my studying by answering sample questions
 
 Methods:
   More TBA
-  Ingestion and indexing - Parse slides and textbook chapters into tagged chunks.
-  Question Generation - Generate multiple-choice questions (maybe short-answer questions if time) from tagged chunks, followed by verification checks for each question. 
-  Free-Text answer grading - scores answers against a rubric made from the source chunks and feedback. 
+  1. Ingestion and indexing - Parse slides and textbook chapters into tagged chunks.
+  2. Question Generation - Generate multiple-choice questions (maybe short-answer questions if time) from tagged chunks, followed by verification checks for each question. 
+  3. Free-Text answer grading - scores answers against a rubric made from the source chunks and feedback. 
