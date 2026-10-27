@@ -7,5 +7,5 @@ Methods:
   
   - Ingestion and indexing - Parse slides and textbook chapters into tagged chunks.
   - Question Generation - Generate multiple-choice questions (maybe short-answer questions if time) from tagged chunks, followed by verification checks for each question.
-  - Free-Text answer grading - scores answers against a rubric made from the source chunks and feedback.
+  - Free-Text answer grading - score answers against a rubric made from the source chunks and feedback.
   - More TBA
